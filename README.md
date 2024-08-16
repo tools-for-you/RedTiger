@@ -1,4 +1,4 @@
-# DOXXING TOOLUPDATED!!
+# DOXXING TOOL UPDATED!!
 this doxxing/osint tool is good for many uses and it has stuff like 
 # dox create
 # malware builder 

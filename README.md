@@ -1,9 +1,15 @@
-# SolaraBootstrapper UPDATED!!
-Solara is an good roblox executor and it runs half of the scripts in roblox download here!
-screenshot
-![image](https://github.com/user-attachments/assets/4c8a82e5-b975-4a34-a9d8-895efee3626a)
+# DOXXING TOOLUPDATED!!
+this doxxing/osint tool is good for many uses and it has stuff like 
+# dox create
+# malware builder 
+and more. screenshot below 👇🏽
+![image](https://github.com/user-attachments/assets/9131b838-d0b0-4df5-aab5-d8c98c6f4dd4)
+2nd screenshot. 👇🏽
+
+
+
+![image](https://github.com/user-attachments/assets/0f4076d2-fc26-4d4c-b2b7-6524637ce724)
 
 
 # no malware or backdoor! 
-
-remember do not miss out on this good executor not forcing you to download.!
+ not forcing you to download.!
